@@ -1,13 +1,13 @@
 ## EgoNCE++
 <div style="text-align: right;">
-更新日: 2025/05/23
+更新日: 2025/06/01
 </div>
 
 ---
 
 ### 【論文情報】
 ##### DO EGOCENTRIC VIDEO-LANGUAGE MODELS TRULYUNDERSTAND HAND-OBJECT INTERACTIONS?
- **Author:** Boshen Xu Ziheng Wang Yang Du Zhinan Song Sipeng Zheng Qin Jin Renmin University of China Beijing Academy of Artificial Intelligenc
+ **Author:** Boshen Xu Ziheng Wang Yang Du Zhinan Song Sipeng Zheng Qin Jin Renmin University of China Beijing Academy of Artificial Intelligence
 ###### URL: [https://openreview.net/forum?id=M8gXSFGkn2](https://openreview.net/forum?id=M8gXSFGkn2)
  **Keywords:**  egocentric, hand-object interaction, video-language model, contrastive learning, multimodal representation learning
 
